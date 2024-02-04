@@ -18,3 +18,4 @@ version.h
 libtool
 config.*
 stamp-h
+/.vscode/
